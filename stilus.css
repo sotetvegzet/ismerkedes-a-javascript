@@ -1,0 +1,30 @@
+body {
+    height:15px;
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    
+}
+.ok{
+    padding: 25px;
+    color: darkblue;
+    margin-top: 20px;
+    padding-right: 20px;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 50px;
+    border-color: darkred;
+    
+}
+.gomb{
+    padding: 15px;
+    margin: 20px;
+    border-style: groove;
+    font-size: larger;
+}
+.table{
+    margin:auto
+}
+.tarto{
+    
+}
